@@ -1,6 +1,6 @@
 [project]
-name="pyXgui"
-version="3.0.24"
+name="tknav"
+version="0.1.0"
 requires-python = ">= 3.8"
 readme="README.md"
 authors = [
