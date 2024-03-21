@@ -1,0 +1,11 @@
+LICENSE
+README.txt
+pyproject.toml
+setup.cfg
+setup.py
+pyXgui.egg-info/PKG-INFO
+pyXgui.egg-info/SOURCES.txt
+pyXgui.egg-info/dependency_links.txt
+pyXgui.egg-info/top_level.txt
+tknav/__init__.py
+tknav/nav.py
