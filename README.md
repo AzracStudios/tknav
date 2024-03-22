@@ -18,7 +18,7 @@ navigator = Navigator()
 To Create a page, instance a tkinter frame and assign it to a variable. Pass in the root object as the master to the frame
 
 ```
-my_page = Tk.frame(root)
+my_page = tk.Frame(root)
 ```
 
 All the widgets existing in this page must have the variable, in this case `my_page` as their master.
