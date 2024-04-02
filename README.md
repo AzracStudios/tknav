@@ -8,7 +8,7 @@ To use tknav, install the package from the pypi repository using the command
 In your tkinter project, import the navigator object and create an instance of it.
 
 ```
-import Navigator from tknav
+from tknav import Navigator 
 from tkinter import * as tk
 ...
 navigator = Navigator()
