@@ -9,7 +9,7 @@ In your tkinter project, import the navigator object and create an instance of i
 
 ```
 from tknav import Navigator 
-from tkinter import * as tk
+import tkinter as tk
 ...
 navigator = Navigator()
 ...
